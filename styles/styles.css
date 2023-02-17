@@ -114,7 +114,7 @@ main {
     position: relative;
     flex-direction: column;
     align-items: center;
-    margin-top: -20px;
+    margin-top: -15px;
 }
 
 .hero-button {
@@ -125,11 +125,12 @@ main {
     padding: 15px;
     border-radius: 0 20px 20px 0;
     cursor: pointer;
+    font-size: 12px;
 }
 
 .hero-input {
     width: 299px;
-    height: 45px;
+    height: 44px;
     padding-left: 15px;
     border-radius: 20px 0 0 20px;
     font-size: 12px;
@@ -306,7 +307,3 @@ Mijn header sectie schaalt nu niet mooi mee bij het resizen van mijn browser. He
         flex-wrap: wrap;
     }
 }
-
-
-
-
